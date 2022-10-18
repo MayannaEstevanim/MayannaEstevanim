@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayannaEstevanim
-- 👀 I’m interested in HTML, CSS, Flex, Grid, Boostrap
+- 👀 I’m interested in HTML, CSS, Flex, Grid, Boostrap, Agile
 - 🌱 I’m currently learning bootcamp Full Stack Developer & Front End Developer en Upgrade hub
 
 <div> 
