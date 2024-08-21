@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MayannaEstevanim
-- 👀 I’m interested in HTML, CSS, Flex, Grid, Boostrap, Agile
-- 🌱 I’m currently learning bootcamp Full Stack Developer & Front End Developer en Upgrade hub
+- 👀 I’m interested in Appian, Agile, React, HTML, CSS, Flex, Grid, Boostrap
+- I’m currently Appian Certified Associate Developer
+- 🌱 I’m learning bootcamp Full Stack Developer & Front End Developer en Upgrade hub
 
 <div> 
   <a href= "https://github.com/MayannaEstevanim"</a>
