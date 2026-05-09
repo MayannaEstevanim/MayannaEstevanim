@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayanna Estevanim
 
-💻 Junior Front-End Developer in progress  
+💻 Junior Front-End Developer  
 📊 Basic knowledge in Data Analysis (Power BI)  
 🎓 PhD in Communication & Digital Environments  
 
@@ -8,34 +8,38 @@
 
 ## 🧠 About me
 
-I am currently transitioning into the tech field as a **Junior Front-End Developer**, with a background in **communication, digital environments and academic research**.
+I am a **Junior Front-End Developer**, transitioning into the tech field with a background in **communication, digital environments and academic research**.
 
-I have initial experience with:
-- 📊 Data analysis and visualization (Power BI)
-- ⚙️ Low-code development (Appian)
-- 🎓 Teaching and research in digital communication
+I bring a combination of analytical thinking, creativity and problem-solving skills developed through my academic and professional experience.
 
 Currently, I am focused on:
-- 🌐 Learning web development (HTML, CSS, JavaScript, React)
-- 💡 Building simple and functional projects
-- 🚀 Developing my skills step by step in the tech field
+- 🌐 Developing web applications using HTML, CSS and JavaScript  
+- 💡 Building practical projects to strengthen my skills  
+- 🚀 Growing step by step as a developer  
 
 ---
 
 ## 🛠️ Technologies
 
-Learning:
+- HTML5  
+- CSS3  
+- JavaScript  
+- Power BI (basic)  
+- Appian (basic)  
 
-HTML | CSS | JavaScript  
-Power BI (basic) | Appian (basic)  
+---
+
+## 📂 Projects
+
+Check out my repositories to see the projects I’m currently building and improving.
 
 ---
 
 ## 🎯 Goals
 
-🚀 Start my career as a Junior Developer  
-📈 Improve my technical skills and build real projects  
-💼 Work in a collaborative tech environment  
+🚀 Start my career as a Junior Front-End Developer  
+📈 Continuously improve my technical skills  
+💼 Contribute to real-world projects in a collaborative environment  
 
 ---
 
